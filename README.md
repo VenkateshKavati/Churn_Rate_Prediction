@@ -20,7 +20,7 @@ the last cell of the notebook saves them).
 ## Run the dashboard
 
 ```bash
-streamlit run app.py
+[streamlit run app.py](https://venkateshkavati-churn-rate-prediction-app-weylxl.streamlit.app/)
 ```
 
 This opens the dashboard in your browser at `http://localhost:8501`.
